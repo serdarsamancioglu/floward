@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Floward</string>
+    <string name="title_dob">Date of birth</string>
+    <string name="post_count">Post count</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="users_not_found">No Users Found!</string>
+    <string name="retry">Retry</string>
+    <string name="user_list_label">User List</string>
+    <string name="user_profile_label">User Profile</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="users">Users</string>
+    <string name="no_info">No info</string>
+    <string name="went_wrong">Something went wrong…</string>
+    <string name="no_results">No results found</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
